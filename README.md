@@ -10,7 +10,7 @@
 
 ## Introduction
 
-We were told to follow the path - school, career, success - and things would work out.
+We were told to follow the path - **school, career, success** - and things would work out.
 
 But now we’re burned out.
 
@@ -36,7 +36,7 @@ Philosophy asked big questions, but ignored real problems.
 
 We believe the good life isn’t a fixed formula.
 
-It’s something you build—through reflection, conversation, and real-world testing.
+It’s something you build: through reflection, conversation, and real-world testing.
 
 Not alone. But together.
 
@@ -50,7 +50,7 @@ Once a week. One hour.
 
 A group of thoughtful people exploring how to live better.
 
-We talk about the stuff that actually matters—
+We talk about the stuff that actually matters:
 
 **Health, money, meaning, relationships, purpose.**
 
