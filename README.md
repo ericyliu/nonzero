@@ -24,7 +24,7 @@ Hustling hard and unsure why.
 
 This isn't working.
 
-## 🔥 What’s Broken
+## What’s Broken
 
 Religion gave us rules, but abandoned reason.
 
@@ -32,7 +32,7 @@ Politics gave us tribes, but left us divided.
 
 Philosophy asked big questions, but ignored real problems.
 
-## 💡 A New Way to Think
+## A New Way to Think
 
 We believe the good life isn’t a fixed formula.
 
@@ -44,7 +44,7 @@ We’re not here to debate abstract ideals.
 
 **We’re here to ask better questions, and test the answers in real life.**
 
-## 🤝 What We’re Doing About It
+## What We’re Doing About It
 
 Once a week. One hour.
 
@@ -62,7 +62,7 @@ We don’t pretend to have the answers.
 
 But we care enough to ask the right questions—and try things together.
 
-## 🚀 Take the First Step
+## Take the First Step
 
 Try it for a week.
 
