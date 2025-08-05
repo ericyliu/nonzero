@@ -1,50 +1,50 @@
 # Procrastination
-"You don’t have to be great to start, but you have to start to be great." — Zig Ziglar
+*"You don't have to be great to start, but you have to start to be great."* — Zig Ziglar
 
-## What is procrastination
+## What is procrastination?
 
-Choosing short term rewards over working towards higher value or long term goals. Procrastination is inherently a failure of navigating your motivational system.
+Procrastination is choosing short-term rewards over working toward higher-value, long-term goals. At its core, it represents a failure to effectively navigate your motivational system.
 
 ![motivation-formula](motivation-formula.png)
 
-The formula above represents the motivation that you feel as a factor of a few concepts. The most important takeaway is to consider what is on top versus what is on bottom. To give yourself more motivation, either increase what is on top or decrease what is on bottom.
+The formula above captures the motivation you feel as a function of several key factors. The crucial insight is to focus on what's in the numerator versus what's in the denominator. To boost your motivation, either increase what's on top or decrease what's on the bottom.
 
-### improve these
-Probability of Success - how likely you believe you are to accomplish the task
-Perceived Reward - how much you think you stand to gain from accomplishing this task
+### Increase these factors:
+- **Probability of Success** - How likely you believe you are to accomplish the task
+- **Perceived Reward** - How much you think you stand to gain from accomplishing this task
 
-### reduce these
-Perceived Effort - how hard the task seems
-Impulsiveness - how likely are you to succumb to short term desire by nature
-Delay - how long before you get the reward for doing the task
-Distractibility - how likely something will pull you away from the task
+### Reduce these factors:
+- **Perceived Effort** - How difficult the task appears to be
+- **Impulsiveness** - Your natural tendency to succumb to short-term desires
+- **Delay** - How long you must wait before receiving the reward for completing the task
+- **Distractibility** - How likely external factors are to pull you away from the task
 
-## How to deal with it
+## How to overcome procrastination
 
-1. Define your values so you know what you want to work towards
-2. Reduce friction in doing what you need to do (reduces perceived effort)
-3. Increase friction and reduce availability of distractions (reduces distractibility)
-4. break down tasks into trivially easy steps (reduces perceived effort, decreases delay)
-5. Adopt a process mindset and enjoy the journey (increases perceived reward)
-6. Keep momentum by consistently doing these tasks on a regular schedule (makes your impulse to do that task)
-7. Avoid perfectionist mindset (increase probability of success)
+1. **Clarify your values** - Define what truly matters to you so you know what you're working toward
+2. **Reduce friction** - Make it easier to start and continue doing what you need to do (reduces perceived effort)
+3. **Create barriers to distraction** - Increase friction around distractions and reduce their availability (reduces distractibility)
+4. **Break tasks into micro-steps** - Divide large tasks into trivially easy steps (reduces perceived effort, decreases delay)
+5. **Adopt a process mindset** - Learn to enjoy the journey itself (increases perceived reward)
+6. **Build momentum through consistency** - Establish regular schedules for important tasks (transforms them into automatic habits)
+7. **Embrace imperfection** - Avoid perfectionist thinking that paralyzes progress (increases probability of success)
 
-## Exercises
+## Practical exercises
 
-1. Write down what your values are and what you are trying to accomplish
-2. Take something you are trying to accomplish that you are putting off and break it down into smaller tasks
+1. **Values clarification** - Write down your core values and the specific goals you're trying to accomplish
+2. **Task decomposition** - Take one thing you're putting off and break it down into the smallest possible actionable steps
 
-## Success Metrics
+## Success indicators
 
-1. I no longer delay what needs to be done until the last minute
-2. It no longer feels daunting or hard to do make progress towards what I value
+1. You no longer delay important tasks until the last minute
+2. Making progress toward your values no longer feels daunting or overwhelming
 
-## More Reading
+## Further reading
 
-1. Atomic Habits - James Clear
+1. *Atomic Habits* - James Clear
 2. [Procrastination Solved](https://solvedpodcast.com/procrastination/)
-3. Procrastination - Fuschia M. Sirois
+3. *Procrastination* - Fuschia M. Sirois
 
-## Related
+## Related concepts
 
 1. Elephant and the Rider
