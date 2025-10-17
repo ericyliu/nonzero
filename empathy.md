@@ -1,6 +1,6 @@
 # Empathy
 
-*“Empathy is the starting point for creating a community and taking action. It’s the impetus for creating change.”* — Max Carver
+*“Empathy is the starting point for creating a community and taking action. It’s the impetus for creating change.”* - Max Carver
 
 ## What is empathy?
 
