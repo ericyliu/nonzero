@@ -12,3 +12,6 @@ markdown: kramdown
 exclude:
   - .git
   - .gitignore
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
