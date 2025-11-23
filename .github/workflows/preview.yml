@@ -27,7 +27,7 @@ jobs:
 
       - name: Build Jekyll site
         run: |
-          bundle exec jekyll build --destination ./_site
+          bundle exec jekyll build --baseurl "/nonzero/pr-preview/pr-${{ github.event.pull_request.number }}" --destination ./_site
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
