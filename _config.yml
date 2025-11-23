@@ -1,0 +1,14 @@
+title: "NonZero"
+description: "No one taught us how to live. So we're figuring it out, together."
+
+# Theme - you can change this to any GitHub-supported theme
+theme: minima
+# Other popular themes: jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-architect
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from processing
+exclude:
+  - .git
+  - .gitignore
